@@ -1,0 +1,62 @@
+
+.imageGoogle {
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    
+}
+.search {
+    padding: 0;
+    height: 100px;
+    width: 200px;
+    margin: auto;
+    box-sizing: border-box;
+    
+}
+.button {
+    height: 20px;
+    width: 500px;
+    float: left;
+    padding-left: 50px;
+}
+.text1 {
+    width: 200px;
+    padding-left: 50px;
+}
+.container1 {
+    
+    
+    width: auto;
+    height: 100px;
+
+    margin-left: 5px;
+    padding: 0;
+    overflow: hidden;
+
+}
+.container2 {
+    width: 120px;
+    height: 100px;
+    
+    margin: auto;
+}
+#first {
+    background-color: aqua;
+    float: left;
+    margin-left: 820px;
+}
+#second {
+    background-color: aquamarine;
+    float: left;
+    margin-left: 5px;
+}
+#third {
+    text-align: center;
+    background-color: azure;
+    float: left;
+    margin-left: 5px;
+}
+
+#last-text {
+    margin-left: 900px;
+}
